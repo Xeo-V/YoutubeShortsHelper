@@ -29,7 +29,7 @@ Tech Stack
 
 Installation and Usage
 
-Detailed installation and usage instructions are available in the README file.
+Detailed installation and usage instructions are available (below)
 Contributing
 
 We invite developers to contribute and help make this tool even better. Check out the CONTRIBUTING.md file for more details.
