@@ -61,5 +61,5 @@ The Extension Is Only For Mozilla Firefox:
 Congratulations! You've successfully installed and set up the YouTube Shorts Scraper extension on Mozilla Firefox.
 -------------------------------------------------------------------------------------------------------------------
 
-License
+License :
 This project is open-source and available under the MIT License.
